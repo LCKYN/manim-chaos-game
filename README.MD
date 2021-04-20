@@ -1,6 +1,6 @@
 # Chaos game
 
-## gallery 
+## gallery (example)
 
 ---
 ![1](/gallery/1.png)
