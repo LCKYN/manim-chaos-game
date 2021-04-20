@@ -3,7 +3,7 @@
 ## gallery 
 
 ---
-![1](/Chaos%20game/gallery/1.png)
+![1](/gallery/1.png)
 ```
 ratio = 3/4
 repeat = 3
@@ -21,7 +21,7 @@ point init(csv):
 
 ---
 
-![2](/Chaos%20game/gallery/2.png)
+![2](/gallery/2.png)
 ```
 ratio = 2/3
 repeat = 4
@@ -39,7 +39,7 @@ point init(csv):
 
 ---
 
-![3](/Chaos%20game/gallery/3.png)
+![3](/gallery/3.png)
 ```
 ratio = 2/3
 repeat = 6
@@ -53,7 +53,7 @@ point init(csv):
 
 ---
 
-![4](/Chaos%20game/gallery/4.png)
+![4](/gallery/4.png)
 ```
 ratio = 1/2
 repeat = 6
@@ -67,7 +67,7 @@ point init(csv):
 
 ---
 
-![5](/Chaos%20game/gallery/5.png)
+![5](/gallery/5.png)
 ```
 ratio = 1/2
 repeat = 6
@@ -80,7 +80,7 @@ point init(csv):
 
 ---
 
-![6](/Chaos%20game/gallery/6.png)
+![6](/gallery/6.png)
 ```
 ratio = 2/3
 repeat = 4
@@ -97,7 +97,7 @@ point init(csv):
 
 ---
 
-![7](/Chaos%20game/gallery/7.png)
+![7](/gallery/7.png)
 ```
 ratio = 2/3
 repeat = 4
@@ -112,7 +112,7 @@ point init(csv):
 
 ---
 
-![8](/Chaos%20game/gallery/8.png)
+![8](/gallery/8.png)
 ```
 ratio = 2/3
 repeat = 3
@@ -130,7 +130,7 @@ point init(csv):
 
 ---
 
-![9](/Chaos%20game/gallery/9.png)
+![9](/gallery/9.png)
 ```
 ratio = 1/8
 repeat = 4
